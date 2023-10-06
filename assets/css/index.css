@@ -2,9 +2,13 @@
     padding: 0;
 }
 
+body{
+    background-image: url("assets/img/web-pos-system.jpg");
+}
+
 nav div {
     padding: 10px;
-    background-color: #9C9C9C;
+    background-color: #0a53be;
 }
 
 #dashboard, #customer, #item, #order {
