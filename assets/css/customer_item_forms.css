@@ -40,3 +40,30 @@ nav div {
 table tbody, table thead {
     border: 1px solid black;
 }
+
+.table {
+    padding-left: 400px;
+}
+.CustomerName {
+    left: 200px;
+    bottom: 70px;
+}
+.CustomerID {
+    right: 250px;
+}
+.address {
+    right: 250px;
+    bottom: 30px;
+}
+.salary {
+    left: 200px;
+    bottom: 100px;
+}
+
+.btn-warning {
+    left: 315px;
+    bottom: 42px
+}
+.btn {
+    right: 100px;
+}
